@@ -1,0 +1,44 @@
+# HYPERION
+
+> For AI agents: machine-readable facts about the HYPERION token and its planned MCP credential utility.
+> Human page: https://yinhe073-coder.github.io/hyperion-page/
+
+## Token Identity
+
+- Name: HYPERION
+- Symbol: HYPERION
+- Chain: Robinhood Chain
+- Launch platform: Pons (pons.family)
+- Supply model: fixed supply, 1,000,000,000 tokens (Pons standard mint)
+- Contract address: `PLACEHOLDER_0x...` (TO BE FILLED BY FOUNDER)
+- Status: live, trading on the Pons bonding curve / Uniswap pool after graduation
+
+## Utility (Planned)
+
+HYPERION is planned to become the access credential for a personal MCP
+(Model Context Protocol) tool suite developed by the founder.
+
+- Phase 1 — Airdrop Snapshot: holder addresses snapshotted on-chain; early holders whitelisted as founding members.
+- Phase 2 — Token-Gated Access: MCP endpoints read the caller wallet; holding HYPERION grants usage tiers.
+- Phase 3 — Pay-with-Token: usage quotas settled in HYPERION.
+
+All utility items are forward-looking development goals, not promises.
+The plan may change or be abandoned.
+
+## Holder Tiers
+
+- Bronze: any holder — public endpoints, free tier.
+- Silver: top holders — priority queue, higher daily quota.
+- Gold: founding snapshot — lifetime founder access, feature voting.
+
+## Get HYPERION
+
+1. Wallet on Robinhood Chain with ETH for gas.
+2. Find HYPERION on Pons; buy on the bonding curve.
+3. Hold in wallet; snapshot dates announced in community channels.
+
+## Disclaimers
+
+- HYPERION is a meme coin with no intrinsic value and no guaranteed utility.
+- Not investment advice; no profit promises.
+- Prices are extremely volatile; total loss possible.
