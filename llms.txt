@@ -25,6 +25,11 @@ HYPERION is planned to become the access credential for a personal MCP
 All utility items are forward-looking development goals, not promises.
 The plan may change or be abandoned.
 
+## Free Plugin Access
+
+The founder's MCP plugin is token-gated: holding HYPERION grants free usage.
+The access pass is minted on OpenSea.
+
 ## Fee Commitment (Founder Pledge)
 
 The founder's entire share of HYPERION trading fees (the creator split paid by the
